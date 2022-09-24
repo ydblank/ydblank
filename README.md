@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I touch grass**
 
+- 🎨 Hobbies **I love playing, listening, and making music. I do a little bit of art on the side and I also do video editting.**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jose-glen-samson-110333223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose glen samson" height="30" width="40" /></a>
