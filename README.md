@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Glen A. Samson</h1>
 <h3 align="center">A passionate full-stack developer and Computer Science Student from the University of San Carlos (USC)</h3>
+ <img src="https://ibb.co/3dypZ6Y" alt="ydblank" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ydblank&label=Profile%20views&color=0e75b6&style=flat" alt="ydblank" /> </p>
 
