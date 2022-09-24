@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jose Glen A. Samson</h1>
-<h3 align="center">A passionate full-stack developer and Computer Science Student from the University of San Carlos (USC)</h3>
+
 ![Unforgettable experience](https://user-images.githubusercontent.com/82227364/192087070-8f75fdee-339c-4670-a276-7652b1544f97.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ydblank&label=Profile%20views&color=0e75b6&style=flat" alt="ydblank" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ydblank" alt="ydblank" /></a> </p>
-
+<h3 align="center">A passionate full-stack developer and Computer Science Student from the University of San Carlos (USC)</h3>
 - 🌱 I’m currently learning **C, C#, Java, JS, Laravel, PHP**
 
 - 💬 Ask me about **anything**
