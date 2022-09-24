@@ -3,6 +3,7 @@
 ![Unforgettable experience](https://user-images.githubusercontent.com/82227364/192087070-8f75fdee-339c-4670-a276-7652b1544f97.png)
 
 <h3 align="center">A passionate full-stack developer and Computer Science Student from the University of San Carlos (USC)</h3>
+
 - 🌱 I’m currently learning **C, C#, Java, JS, Laravel, PHP**
 
 - 💬 Ask me about **anything**
